@@ -21,7 +21,7 @@ Run `ng serve -o` for a dev server. Navigate to `http://localhost:4200/`. The ap
 
 ## Autor ✒️
 
-**\*Yennifer Marcela Tobon** - _todo_ - [git](https://github.com/yenniferTobon?tab=repositories)
+**\*Yennifer Marcela Tobon** - [git](https://github.com/yenniferTobon?tab=repositories)
 
 <h3 align="left">Contáctame:</h3>
 <p align="left">
