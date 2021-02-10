@@ -21,7 +21,9 @@ Run `ng serve -o` at the root of the project for a development server.. Navigate
 
 ## Autor ✒️
 
+<<<<<<< HEAD
 **\*Yennifer Marcela Tobon**  [git](https://github.com/yenniferTobon?tab=repositories)
+
 
 <h3 align="left">Contáctame:</h3>
 <p align="left">
