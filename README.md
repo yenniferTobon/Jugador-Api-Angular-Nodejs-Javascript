@@ -1,27 +1,33 @@
 # ApiJugador
+Application that allows consulting services of a rest
+Public api (https://www.balldontlie.io/api/v1):
+- Make a list of players (https://www.balldontlie.io/api/v1/players)
+- Make at least one filter from the previous list (By name)
+- Check the specific information of a player (To be able to select a player from the
+above listing and show the detail) https://www.balldontlie.io/api/v1/players/<ID>
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.4.
 
+## run the project
+
+- git clone https://github.com/yenniferTobon/Jugador-Api-Angular-Nodejs-Javascript
+- npm install
+
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Run `ng serve -o` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Autor ✒️
 
-## Build
+**\*Yennifer Marcela Tobon** - _todo_ - [git](https://github.com/yenniferTobon?tab=repositories)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+<h3 align="left">Contáctame:</h3>
+<p align="left">
+<a href="https://twitter.com/tobonyennifer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="tobonyennifer" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yennifertobon25" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yennifertobon25" height="30" width="40" /></a>
+<a href="https://fb.com/yennifertobon25" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="yennifertobon25" height="30" width="40" /></a>
+<a href="https://instagram.com/yenntobon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="yenntobon" height="30" width="40" /></a>
+</p>
+<br/>
