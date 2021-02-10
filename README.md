@@ -9,19 +9,19 @@ above listing and show the detail) https://www.balldontlie.io/api/v1/players/<ID
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.4.
 
-## run the project
+## Project installation
 
 - git clone https://github.com/yenniferTobon/Jugador-Api-Angular-Nodejs-Javascript
 - npm install
 
-## Development server
+## Run the project
 
-Run `ng serve -o` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Run `ng serve -o` at the root of the project for a development server.. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 
 ## Autor ✒️
 
-**\*Yennifer Marcela Tobon** - _todo_ - [git](https://github.com/yenniferTobon?tab=repositories)
+**\*Yennifer Marcela Tobon**  [git](https://github.com/yenniferTobon?tab=repositories)
 
 <h3 align="left">Contáctame:</h3>
 <p align="left">
