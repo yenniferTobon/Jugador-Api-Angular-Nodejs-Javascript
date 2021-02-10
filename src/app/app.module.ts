@@ -12,12 +12,16 @@ import { NavbarComponent } from './components/navbar/navbar.component';
 import { HomeComponent } from './pages/home/home.component';
 import { HttpClientModule } from '@angular/common/http';
 import { JugadorComponent } from './pages/jugador/jugador.component';
+import { PipeNullPipe } from './pipes/pipe-null.pipe';
+import { BuscadorComponent } from './components/buscador/buscador.component';
 @NgModule({
   declarations: [
     AppComponent,
     NavbarComponent,
     HomeComponent,
-    JugadorComponent
+    JugadorComponent,
+    PipeNullPipe,
+    BuscadorComponent,
   ],
   imports: [
     BrowserModule,

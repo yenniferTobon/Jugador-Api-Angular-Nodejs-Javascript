@@ -26,4 +26,18 @@ export class JugadorService {
   getJugador(idx:any){
     return this.jugadores[idx];
   }
+
+  buscarJugadores(termino: string){
+    let jugadoresArr: Datum[]= [];
+
+    termino = termino.toLowerCase();
+    for( let jugador of this.jugadores){
+      let name = jugador.first_name.toLowerCase();
+
+      if( name.indexOf(termino) >= 0){
+        jugadoresArr.push(jugador);
+      }
+    }
+    return jugadoresArr;
+  }
 }
