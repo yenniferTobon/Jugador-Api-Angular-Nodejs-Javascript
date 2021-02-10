@@ -1,0 +1,37 @@
+<h1 class="mt-3 font-weight-light">Jugadores</h1>
+<hr>
+
+<div class="card-columns">
+    <div class="card" *ngFor="let jugador of jugadores; let i = index">
+        <div class="card-body">
+            <h5><strong>{{ jugador.first_name }}</strong></h5>
+            <table class="table table-striped small">
+                <thead>
+                    <tr>
+                        <th>Detail</th>
+                        <th>Value</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td scope="row">id </td>
+                        <td>{{ jugador.id }}</td>
+                    </tr>
+                    <tr>
+                        <td scope="row">height_feet</td>
+                        <td>{{ jugador.height_feet }}</td>
+                    </tr>
+                    <tr>
+                        <td scope="row">height_inches</td>
+                        <td>{{ jugador.height_inches }}</td>
+                    </tr>
+
+                    <td colspan="2">
+                        <button (click)="verJugador(i)" type="button" class="btn btn-outline-primary btn-block">
+                        Ver más...
+                      </button>
+                    </td>
+            </table>
+        </div>
+    </div>
+</div>
